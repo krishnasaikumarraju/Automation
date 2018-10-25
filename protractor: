@@ -1,0 +1,10 @@
+protractor:
+reference url:
+https://community.spiceworks.com/how_to/126249-setting-up-protractor-on-ubuntu-14-04
+installation commands:
+1.install nodejs
+2.sudo npm install -g protractor(use npm )
+3.protractor --version
+4.check java jdk --version(if its not install download it to run selenium server)
+5.sudo webdriver-manager update (run it before starting the server)
+6.
